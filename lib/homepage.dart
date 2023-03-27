@@ -43,7 +43,7 @@ class _HomepageState extends State<Homepage> {
             "Lazy Loading",
             style: TextStyle(fontWeight: FontWeight.w700),
           ),
-          backgroundColor: Color.fromARGB(255, 56, 56, 56),
+          backgroundColor: Color.fromARGB(255, 84, 84, 84),
         ),
         body: ListView.builder(
             controller: _scrollController,
